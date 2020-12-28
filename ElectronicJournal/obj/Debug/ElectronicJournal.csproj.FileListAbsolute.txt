@@ -1,0 +1,15 @@
+C:\Users\Леонид\Desktop\Пары\Инструментальные средства разработки программного обеспечения\ElectronicJournal\ElectronicJournal\bin\Debug\ElectronicJournal.exe.config
+C:\Users\Леонид\Desktop\Пары\Инструментальные средства разработки программного обеспечения\ElectronicJournal\ElectronicJournal\bin\Debug\ElectronicJournal.exe
+C:\Users\Леонид\Desktop\Пары\Инструментальные средства разработки программного обеспечения\ElectronicJournal\ElectronicJournal\bin\Debug\ElectronicJournal.pdb
+C:\Users\Леонид\Desktop\Пары\Инструментальные средства разработки программного обеспечения\ElectronicJournal\ElectronicJournal\obj\Debug\ElectronicJournal.csprojAssemblyReference.cache
+C:\Users\Леонид\Desktop\Пары\Инструментальные средства разработки программного обеспечения\ElectronicJournal\ElectronicJournal\obj\Debug\ElectronicJournal.Properties.Resources.resources
+C:\Users\Леонид\Desktop\Пары\Инструментальные средства разработки программного обеспечения\ElectronicJournal\ElectronicJournal\obj\Debug\ElectronicJournal.Template.resources
+C:\Users\Леонид\Desktop\Пары\Инструментальные средства разработки программного обеспечения\ElectronicJournal\ElectronicJournal\obj\Debug\ElectronicJournal.csproj.GenerateResource.cache
+C:\Users\Леонид\Desktop\Пары\Инструментальные средства разработки программного обеспечения\ElectronicJournal\ElectronicJournal\obj\Debug\ElectronicJournal.csproj.CoreCompileInputs.cache
+C:\Users\Леонид\Desktop\Пары\Инструментальные средства разработки программного обеспечения\ElectronicJournal\ElectronicJournal\obj\Debug\ElectronicJournal.exe
+C:\Users\Леонид\Desktop\Пары\Инструментальные средства разработки программного обеспечения\ElectronicJournal\ElectronicJournal\obj\Debug\ElectronicJournal.pdb
+C:\Users\Леонид\Desktop\Пары\Инструментальные средства разработки программного обеспечения\ElectronicJournal\ElectronicJournal\obj\Debug\ElectronicJournal.Main.resources
+C:\Users\Леонид\Desktop\Пары\Инструментальные средства разработки программного обеспечения\ElectronicJournal\ElectronicJournal\obj\Debug\ElectronicJournal.Login.resources
+C:\Users\Леонид\Desktop\Пары\Инструментальные средства разработки программного обеспечения\ElectronicJournal\ElectronicJournal\obj\Debug\ElectronicJournal.Students.resources
+C:\Users\Леонид\Desktop\Пары\Инструментальные средства разработки программного обеспечения\ElectronicJournal\ElectronicJournal\obj\Debug\ElectronicJournal.Subjects.resources
+C:\Users\Леонид\Desktop\Пары\Инструментальные средства разработки программного обеспечения\ElectronicJournal\ElectronicJournal\obj\Debug\ElectronicJournal.Statistics.resources
